@@ -173,12 +173,12 @@ class Program
 
         Console.WriteLine(" ");
 
-        if (lastYearContestants < thisYearContestants)
-        {
-            Console.WriteLine(" ");
-            Console.WriteLine("It is true that this year's competition is bigger than last year's.");
-            Console.WriteLine(" ");
-        }
+        // if (lastYearContestants < thisYearContestants)
+        // {
+        //     Console.WriteLine(" ");
+        //     Console.WriteLine("It is true that this year's competition is bigger than last year's.");
+        //     Console.WriteLine(" ");
+        // }
 
         if (lastYearContestants > thisYearContestants)
         {
